@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Alexander</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Sciensa](http://sciensa.com/), as Senior Frontend Developer and working in the project [BR Partners](https://brpartnersdigital.com.br/)
-
-- 📫 How to reach me **alexanderpiina@gmail.com**
+- 🔭 I’m currently working on [Rethink](https://rethink.dev/), as Senior Frontend Developer and working in the project [Smiles Design System](https://smiles.com.br/)
+- And i do freelance work to [Vista](https://meuvista.com/)
 
 <h3 align="left">My career trail:</h3>
 <p align="left">
